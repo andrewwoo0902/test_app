@@ -7,6 +7,7 @@ Rails.application.routes.draw do
   
   root 'pages#home'
   # get 'welcome/home', to: 'welcome#home'
+  # rails s -p $PORT -b $IP
 
 
   # Example of regular route:
